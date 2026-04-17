@@ -8,14 +8,14 @@ This document contains the relevant links for the Rideau Canal Monitoring projec
 ## Additional Repositories
 - (Add your other repositories here if required)
 - Example:
-  - https://github.com/rodro304/rideau-canal-stream
-  - https://github.com/rodro304/rideau-dashboard
+  - https://github.com/rodr0304/rideau-canal-stream
+  - https://github.com/rodr0304/rideau-dashboard
 
 ## Azure Resources
 - Azure Portal: https://portal.azure.com
 
 ## 🎥 Demo Video
-- https
+- https://youtu.be/6fdsMlRTLC4
 
 
 ---
