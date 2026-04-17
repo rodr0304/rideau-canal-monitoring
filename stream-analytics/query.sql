@@ -35,5 +35,5 @@ SELECT
         WHEN avgIceThickness >= 25 AND avgSurfaceTemp <= 0 THEN 'Caution'
         ELSE 'Unsafe'
     END AS safetyStatus
-INTO output
+INTO [blob-output]
 FROM AggregatedData
